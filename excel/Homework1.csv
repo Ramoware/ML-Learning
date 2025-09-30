@@ -1,0 +1,32 @@
+SUM,,,PRODUCT,,,,,AVERAGE,,,MIN,
+,,,,,,,,,,,,
+STUDENT NAME,MARKS,,PRODUCTS,QTY,COST,TOTAL,,STUDENT NAME,MARKS,,STUDENT NAME,MARKS
+Deepa,85,,P1,150,10,1500,,Deepa,85,,Deepa,85
+Binil,96,,P2,200,15,3000,,Binil,96,,Binil,96
+suman,78,,P3,250,20,5000,,suman,78,,suman,78
+Shilpa,65,,P4,300,25,7500,,Shilpa,65,,Shilpa,65
+Sunil,89,,P5,350,30,10500,,Sunil,89,,Sunil,89
+SUM,413,,,,,,,Average,82.6,,MIN,65
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+MAX,,,COUNT,,,COUNTA,,,COUNTBLANK,,,
+,,,,,,,,,,,,
+STUDENT NAME,MARKS,,STUDENT NAME,MARKS,,STUDENT NAME,MARKS,,STUDENT NAME,MARKS,,
+Deepa,85,,Deepa,85,,Deepa,85,,Deepa,85,,
+Binil,96,,Binil,96,,Binil,GF,,Binil,,,
+suman,78,,suman,78,,suman,78,,suman,78,,
+Shilpa,65,,Shilpa,65,,Shilpa,65,,Shilpa,65,,
+Sunil,89,,Sunil,89,,Sunil,89,,Sunil,89,,
+MAX,96,,COUNT,5, ,COUNTA,5,,COUNTBLANK,1,,
+,,,,,,COUNT,4,,COUNT,4,,
+,,,,,,,,,,,,
+COUNTIF,,,Variance & Standard Deviation,,,,,,,,,
+,,,,,,,,,,,,
+STUDENT NAME,GENDER,,Day,Sales,,,,,,,,
+Deepa,F,,Mon,120,,,,,,,,
+Binil,M,,Tue,150,,,,,,,,
+suman,M,,Wed,100,,,,,,,,
+Shilpa,F,,Thu,130,,,,,,,,
+Sunil,M,,Fri,170,,YOUR NAME,,,,,,
+No of Female,2,,Variance,730,,Ramdev Chaudhary,,,,,,
+No of Male,3,,Standard Deviation,27.0185121722126,,,,,,,,
