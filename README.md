@@ -1,3 +1,5 @@
+## 🤖 Machine Learning
+
 Welcome to this collection of Python and Excel resources! This repository contains hands-on examples of **Excel formulas**, **Python libraries for data analysis**, and **visualization tools**, along with sample code and output images for reference.  
 
 Whether you're a beginner or looking to brush up on practical skills, this repo is structured to make learning fast, intuitive, and applicable.  
@@ -17,7 +19,7 @@ Each folder contains `.py` code and corresponding `.png` outputs for visual refe
 
 ---
 
-## 🔹 Excel
+## 🗿 Excel
 
 Learn how to utilize Excel formulas and features for data analysis, automation, and reporting.
 
@@ -28,7 +30,7 @@ Learn how to utilize Excel formulas and features for data analysis, automation, 
 
 ---
 
-## 🔹 Matplotlib
+## 🌠 Matplotlib
 
 Matplotlib is a **fundamental plotting library** in Python. Ideal for static, publication-quality plots.  
 
@@ -40,7 +42,7 @@ Matplotlib is a **fundamental plotting library** in Python. Ideal for static, pu
 
 ---
 
-## 🔹 NumPy
+## 🎲 NumPy
 
 NumPy provides **fast numerical computation** with multi-dimensional arrays. It’s the backbone for most scientific computing in Python.  
 
@@ -49,7 +51,7 @@ NumPy provides **fast numerical computation** with multi-dimensional arrays. It�
 
 ---
 
-## 🔹 Pandas
+## 🐼 Pandas
 
 Pandas is a **powerful data manipulation library**. It allows you to clean, filter, and transform structured data with ease.  
 
@@ -61,7 +63,7 @@ Pandas is a **powerful data manipulation library**. It allows you to clean, filt
 
 ---
 
-## 🔹 Seaborn
+## 🐉 Seaborn
 
 Seaborn is a **statistical visualization library** built on Matplotlib. It makes it easy to create beautiful and informative graphics.  
 
@@ -73,7 +75,7 @@ Seaborn is a **statistical visualization library** built on Matplotlib. It makes
 
 ---
 
-## 🔹 Plotly
+## 📊 Plotly
 
 Plotly is a **library for interactive plotting** in Python. Great for dashboards and web-based data exploration.  
 
@@ -105,6 +107,21 @@ python example.py
 ```
 
 4. Refer to the `.png` images to see expected output.
+
+---
+
+## 📦 Install Dependencies
+
+To run this project, you need to install the required Python libraries.
+
+1. Make sure you have `pip` installed.
+2. Run the following command in your project root:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all necessary libraries to run the Python scripts in this repository.
 
 ---
 
