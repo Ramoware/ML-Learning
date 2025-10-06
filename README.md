@@ -5,6 +5,17 @@ Welcome to this collection of Python and Excel resources! This repository contai
 Whether you're a beginner or looking to brush up on practical skills, this repo is structured to make learning fast, intuitive, and applicable.  
 
 ---
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+<img src="https://img.shields.io/github/stars/Ramoware/ML-Learning?style=social" alt="GitHub stars" />
+<img src="https://img.shields.io/github/forks/Ramoware/ML-Learning?style=social" alt="GitHub forks" />
+<img src="https://img.shields.io/github/issues/Ramoware/ML-Learning" alt="GitHub issues" />
+<img src="https://img.shields.io/github/last-commit/Ramoware/ML-Learning" alt="Last Commit" />
+</p>
+
+---
 
 ## 📁 Folder Structure
 
